@@ -1,5 +1,14 @@
 # Shopping-R-Us
 
+
+## Successful Test Run
+
+![screen recording](assets/run_tests.gif "Screen shot")
+
+
+## Problem Statement
+
+
 Shopping-R-Us is starting a computer store. You have been engaged to build the checkout system. We will start with the following products in our catalogue
 
 
